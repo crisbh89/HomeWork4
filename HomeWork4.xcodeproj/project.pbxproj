@@ -47,6 +47,7 @@
 		09FBD33E1BF7B56500150CE6 /* HomeWork4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HomeWork4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		09FBD3421BF7B56500150CE6 /* HomeWork4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork4UITests.swift; sourceTree = "<group>"; };
 		09FBD3441BF7B56500150CE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09FBD3501BF7B58E00150CE6 /* HomeWork4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HomeWork4.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				09FBD3291BF7B56500150CE6 /* Assets.xcassets */,
 				09FBD32B1BF7B56500150CE6 /* LaunchScreen.storyboard */,
 				09FBD32E1BF7B56500150CE6 /* Info.plist */,
+				09FBD3501BF7B58E00150CE6 /* HomeWork4.playground */,
 			);
 			path = HomeWork4;
 			sourceTree = "<group>";
